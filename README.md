@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sugumar Krishnamoorthy
 
-<!--
-**sugumar-krishnamoorthy/sugumar-krishnamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Engineering | Automation Architecture | AI & ML Testing
 
-Here are some ideas to get you started:
+I am a Quality Engineering professional with 14+ years of experience building testing strategies for complex data-driven platforms and modern software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus areas include:
+
+• Test Automation (Python, Pytest, Playwright)  
+• API and Distributed Systems Testing  
+• Data Platform Validation (SQL, analytics systems)  
+• AI / LLM Testing  
+• Quality Engineering Leadership  
+
+## Current Focus
+
+Exploring AI system testing including:
+
+- LLM evaluation
+- hallucination detection
+- prompt validation
+- RAG testing
+- AI system reliability
+
+## Certifications
+
+AWS Certifications
+
+• AWS Certified Machine Learning Engineer – Associate  
+• AWS Certified AI Practitioner  
+• AWS Certified Cloud Practitioner  
+
+Professional Certifications
+
+• Project Manager Professional (PMP)
+• Certified Scrum Product Owner (CSPO)  
+• Certified Scrum Master (CSM)
+
+## Portfolio
+
+QA Analyst Portfolio  
+https://github.com/sugumar-krishnamoorthy/qa-analyst-portfolio
+
+Automation Framework  
+(coming soon)
+
+AI Testing Lab  
+(coming soon)
