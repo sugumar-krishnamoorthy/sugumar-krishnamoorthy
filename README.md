@@ -26,15 +26,15 @@ Exploring AI system testing including:
 
 AWS Certifications
 
-• AWS Certified Machine Learning Engineer – Associate  
-• AWS Certified AI Practitioner  
-• AWS Certified Cloud Practitioner  
+- AWS Certified Machine Learning Engineer – Associate
+- AWS Certified AI Practitioner  
+- AWS Certified Cloud Practitioner  
 
 Professional Certifications
 
-• Project Manager Professional (PMP)
-• Certified Scrum Product Owner (CSPO)  
-• Certified Scrum Master (CSM)
+- Project Manager Professional (PMP)  
+- Certified Scrum Product Owner (CSPO)  
+- Certified Scrum Master (CSM)  
 
 ## Portfolio
 
