@@ -1,48 +1,56 @@
 # Hi, I'm Sugumar Krishnamoorthy
 
-Quality Engineering | Automation Architecture | AI & ML Testing
+Quality Engineering Lead | Test Automation | Data Validation | AI-Enabled Testing
 
-I am a Quality Engineering professional with 14+ years of experience building testing strategies for complex data-driven platforms and modern software systems.
+I am a Quality Engineering professional with 14+ years of experience working across enterprise applications, customer-facing platforms, and data-intensive products. Over the years, my work has grown from hands-on testing into leading quality strategy, automation, data validation, release readiness, and business-aligned testing practices.
 
-My focus areas include:
+My background includes building and improving test automation frameworks, validating large-scale data pipelines, supporting release quality, and working closely with product, engineering, and business teams to deliver reliable software.
 
-• Test Automation (Python, Pytest, Playwright)  
-• API and Distributed Systems Testing  
-• Data Platform Validation (SQL, analytics systems)  
-• AI / LLM Testing  
-• Quality Engineering Leadership  
+## What I Focus On
+
+- Test automation using Python, pytest, and Playwright
+- API and backend systems testing
+- Data platform validation using SQL and analytics workflows
+- UI, API, visual, and performance testing
+- Quality engineering leadership and process improvement
+- AI-assisted testing and practical AI quality workflows
 
 ## Current Focus
 
-Exploring AI system testing including:
+I am currently expanding my work in AI-enabled quality engineering, including:
 
-- LLM evaluation
-- hallucination detection
-- prompt validation
-- RAG testing
-- AI system reliability
+- testing AI-driven product features
+- visual regression failure analysis using AI assistance
+- test scenario and edge-case discovery
+- AI-assisted test data preparation
+- faster test script generation workflows
+- building practical approaches for reliable AI system testing
 
 ## Certifications
 
-AWS Certifications
+### AWS Certifications
 
 - AWS Certified Machine Learning Engineer – Associate
-- AWS Certified AI Practitioner  
-- AWS Certified Cloud Practitioner  
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
 
-Professional Certifications
+### Professional Certifications
 
-- Project Manager Professional (PMP)  
-- Certified Scrum Product Owner (CSPO)  
-- Certified Scrum Master (CSM)  
+- Project Management Professional (PMP)
+- Certified Scrum Product Owner (CSPO)
+- Certified Scrum Master (CSM)
 
 ## Portfolio
 
-QA Analyst Portfolio  
-https://github.com/sugumar-krishnamoorthy/qa-analyst-portfolio
+### QA Analyst Portfolio
+[QA Analyst Portfolio](https://github.com/sugumar-krishnamoorthy/qa-analyst-portfolio)
 
-Automation Framework  
-(coming soon)
+### Automation Framework
+Coming soon
 
-AI Testing Lab  
-(coming soon)
+### AI Testing Lab
+Coming soon
+
+## A Little More About Me
+
+I believe quality is more than defect detection. It is about building confidence in the product, reducing delivery risk, and helping teams release software that works reliably in the real world.
