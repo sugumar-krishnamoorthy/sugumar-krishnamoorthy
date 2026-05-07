@@ -1,6 +1,6 @@
 # Hi, I'm Sugumar Krishnamoorthy
 
-Quality Engineering Lead | Test Automation | Data Validation | AI-Enabled Testing
+Quality Engineering Manager | Test Automation | Data Validation | AI-Enabled Testing
 
 I am a Quality Engineering professional with 14+ years of experience working across enterprise applications, customer-facing platforms, and data-intensive products. Over the years, my work has grown from hands-on testing into leading quality strategy, automation, data validation, release readiness, and business-aligned testing practices.
 
